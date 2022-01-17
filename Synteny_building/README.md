@@ -1,5 +1,7 @@
 # run.Makeblocks
 
+c++ porting of InferCars makeblocks
+
 - usage 
 ./run.Makeblocks  config.file >& log
 
