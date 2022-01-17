@@ -1,0 +1,17 @@
+>netdir
+/mss5/RACA2/chainNet
+
+>chaindir
+/mss5/RACA2/chainNet
+
+>resolution
+300000
+
+>species
+panTro6 0
+hg38scf_hard_reindeer 1
+rheMac10 1
+ponAbe3 1
+bosTau9 2
+susScr11 2
+
