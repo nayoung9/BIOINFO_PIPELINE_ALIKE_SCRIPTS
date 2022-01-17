@@ -1,9 +1,9 @@
-#run.Makeblocks
+# run.Makeblocks
 
 - usage 
 ./run.Makeblocks  config.file >& log
 
-# Results and other files are generated in the path where you execute this program
+Results and other files are generated in the path where you execute this program
 
 - config file
 net/chain directory should be in specific format
