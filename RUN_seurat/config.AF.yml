@@ -1,0 +1,15 @@
+default:
+    dir.out: "./test"
+    project: "test"
+    feature.min: 200 
+    feature.max: 2500
+    percent.mt.max: 5
+    norm.method: "LogNormalize"
+    scale.factor: 10000
+    findVariable.method: "vst"
+    findVariable.nfeatures: 2000
+    findVariable.vislabeltopn: 10
+    findCluster.resolution: 0.5
+    findMarker.min.pct: 0.25
+    findMarker.logfc.thres: 0.25
+
