@@ -1,0 +1,5 @@
+default:
+    dir.out: "./BF_Seurat"
+    project: "test"
+    min.cells: 3
+    min.features: 200
